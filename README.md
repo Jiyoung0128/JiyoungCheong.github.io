@@ -18,8 +18,7 @@
   
 - Du, H., **Cheong, J.**, Zhu, G., Huang, X., Li, S., Zheng, J., Tan, J., Zhong, T., Hou, C., & Liu, T. (Under review).  
   *What Draws Upvotes? Identifying Student Clusters Based on Interpersonal Skills and Examining the Correlations.*  
-  To be presented at the **19th International Conference on Computer-Supported Collaborative Learning (CSCL 2026)**,  
-  International Society of the Learning Sciences.
+  The **19th International Conference on Computer-Supported Collaborative Learning (CSCL 2026)**, International Society of the Learning Sciences.
  
 
 
@@ -37,7 +36,15 @@
 - Calculated segregation measures incorporating spatial patterns in census tract using U.S. Census data
 
 ## Work Experience
-
+**Tutor for Introduction to Linear Algebra**
+*Ewha Womans University, Seoul, South Korea (Sep 2025 - Dec 2023)*
+- Provided weekly tutoring in English to support students’ understanding of course material
+**Teaching Assistant (Part-Time)**
+*Star Math Academy, Gyunggi, South Korea (Sep 2023 - Dec 2023)*
+- Assisted students with understanding and solving math questions and graded daily quiz and homework
+**Teaching Assistant (Part-Time)**
+*English Vine Academy, Gyunggi, South Korea (Dec 2021 - Feb 2022)*
+- Supported students by delivering further explanation and graded vocabulary quiz and homework
 
 ## Project
 ### Using Three Tree-Based Ensemble Models to Assess the Risk of Myocardial Infarction
