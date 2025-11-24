@@ -36,13 +36,13 @@
 - Calculated segregation measures incorporating spatial patterns in census tract using U.S. Census data
 
 ## Work Experience
-**Tutor for Introduction to Linear Algebra**
+**Tutor for Introduction to Linear Algebra**  
 *Ewha Womans University, Seoul, South Korea (Sep 2025 - Dec 2023)*
 - Provided weekly tutoring in English to support students’ understanding of course material
-**Teaching Assistant (Part-Time)**
+**Teaching Assistant (Part-Time)**  
 *Star Math Academy, Gyunggi, South Korea (Sep 2023 - Dec 2023)*
 - Assisted students with understanding and solving math questions and graded daily quiz and homework
-**Teaching Assistant (Part-Time)**
+**Teaching Assistant (Part-Time)**  
 *English Vine Academy, Gyunggi, South Korea (Dec 2021 - Feb 2022)*
 - Supported students by delivering further explanation and graded vocabulary quiz and homework
 
