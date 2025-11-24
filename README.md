@@ -11,6 +11,7 @@
 - Du, H., **Cheong, J.**, Zhu, G., Huang, X., Zheng, J., Zhong, T., Hou, C., & Li, S. (Accepted).  
   *What Draws the Upvotes? Examining Relationships Among Performance, Interpersonal Skills, and Learning Behaviors in Online Social Annotation Environments.*  
   Poster session presented at the **American Educational Research Association (AERA)** Annual Meeting, Los Angeles, CA.
+  📄 [Click to View PDF](assets/pdf/AERA2026.pdf)
   
 - Du, H., **Cheong, J.**, Zhu, G., Huang, X., Li, S., Zheng, J., Tan, J., Zhong, T., Hou, C., & Liu, T. (Under review).  
   *What Draws Upvotes? Identifying Student Clusters Based on Interpersonal Skills and Examining the Correlations.*  
