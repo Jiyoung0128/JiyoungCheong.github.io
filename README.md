@@ -9,6 +9,7 @@
 - Summer Session | University of California, Los Angeles  
   *Jun 2023 - Aug 2023*
 
+[link](assets/projects/MyocardialInfarction/PersonalFinalProject.html)
 
 ## Publications, Presentations, Posters
 - Du, H., **Cheong, J.**, Zhu, G., Huang, X., Zheng, J., Zhong, T., Hou, C., & Li, S. (Accepted).  
