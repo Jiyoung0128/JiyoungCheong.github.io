@@ -24,14 +24,14 @@
 
 
 ## Research Experience
-**Undergraduate Research Intern with Professor Hanxiang Du**
+**Undergraduate Research Intern with Professor Hanxiang Du**  
 *Apr 2025 - Sep 2025*
 - Submitted poster to *AERA 2026 Annual Meeting* (Accepted)
 - Submitted short paper to *CSCL 2026 International Conference*
 - Conducted educational data mining, hierarchical clustering, cosine similarity analysis, CRQA
 - Studied about NLP and used NLTK for text preprocessing
 
-**Undergraduate Research Intern with Professor Jenny Jyoung Lee**
+**Undergraduate Research Intern with Professor Jenny Jyoung Lee**  
 *Sep 2024 - Dec 2024*
 - Conducted a literature review on air pollution disparities in relation to mobility
 - Calculated segregation measures incorporating spatial patterns in census tract using U.S. Census data
