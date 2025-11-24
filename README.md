@@ -10,7 +10,7 @@
   (Jun 2023 - Aug 2023)
 
 
-## Conference
+## Publications, Presentations, Posters
 - Du, H., **Cheong, J.**, Zhu, G., Huang, X., Zheng, J., Zhong, T., Hou, C., & Li, S. (Accepted).  
   *What Draws the Upvotes? Examining Relationships Among Performance, Interpersonal Skills, and Learning Behaviors in Online Social Annotation Environments.*  
   Poster session presented at the **American Educational Research Association (AERA)** Annual Meeting, Los Angeles, CA.  
@@ -24,9 +24,28 @@
 
 
 ## Research Experience
+**Undergraduate Research Intern with Professor Hanxiang Du**
+*Apr 2025 - Sep 2025*
+- Submitted poster to *AERA 2026 Annual Meeting* (Accepted)
+- Submitted short paper to *CSCL 2026 International Conference*
+- Conducted educational data mining, hierarchical clustering, cosine similarity analysis, CRQA
+- Studied about NLP and used NLTK for text preprocessing
 
+**Undergraduate Research Intern with Professor Jenny Jyoung Lee**
+*Sep 2024 - Dec 2024*
+- Conducted a literature review on air pollution disparities in relation to mobility
+- Calculated segregation measures incorporating spatial patterns in census tract using U.S. Census data
 
 ## Work Experience
 
 
 ## Project
+### Using Three Tree-Based Ensemble Models to Assess the Risk of Myocardial Infarction
+
+### Building Drug Usage Prediction Model
+
+### Logistic Regression Analysis of Lung Cancer Incidence by Smoking Duration and Occupation
+
+### Finding Reliable Confidence Interval for the Odds Ratio through Simulation and Visualization
+
+### Relationship between Academic Achievement and Future Career and Living
