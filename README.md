@@ -55,22 +55,22 @@
 🧑‍🏫 [Click to View Slides](assets/projects/MyocardialInfarction/DataStructure_FinalProjectSlide.pdf)
 
 ### Building Drug Usage Prediction Model
-*Course project for the Data Science Foundations*
+*Course project for the Data Science Foundations*  
 🧑‍🏫 [Click to View Slides (Korean Original)](assets/projects/Drug/DSFoundation_TermProject_slides.pdf)
 
 ### Logistic Regression Analysis of Lung Cancer Incidence by Smoking Duration and Occupation
-*Course project for the Health Medical Database*
-🧑‍🏫 [Click to View Slides (Korean Original)](assets/projects/LungCancer/BioMedicalDB_presentationSlides.pdf)
+*Course project for the Health Medical Database*  
+🧑‍🏫 [Click to View Slides (Korean Original)](assets/projects/LungCancer/BioMedicalDB_presentationSlides.pdf)  
 📄 [Click to View PDF (Korean Original)](assets/projects/LungCancer/BioMedicalDB_FinalReport.pdf)
 
 
 ### Finding Reliable Confidence Interval for the Odds Ratio through Simulation and Visualization
-*Course project for Computational Statistics*
+*Course project for Computational Statistics*  
 📄 [Click to View PDF](assets/projects/OddsRatio/MATH445_FinalReport.pdf)
 
 ### Relationship between Academic Achievement and Future Career and Living
-*Course project for Calling BS in the Age of Big Data and AI*
-🧑‍🏫 [Click to View Slides](assets/projects/AchievementFuture/CSCI497C_Final_Slides.pdf)
+*Course project for Calling BS in the Age of Big Data and AI*  
+🧑‍🏫 [Click to View Slides](assets/projects/AchievementFuture/CSCI497C_Final_Slides.pdf)  
 📄 [Click to View PDF](assets/projects/AchievementFuture/CSCI497C_Final_Report.pdf)
 
 
