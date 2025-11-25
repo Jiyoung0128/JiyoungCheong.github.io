@@ -1,6 +1,10 @@
 # Data Scientist
 #### Technical Skills: Python, R, C
 
+## Table of Contents
+* toc
+{:toc}
+
 ## Education
 - Bachelor of Engineering, Data Science | Ewha Womans University  
   *Mar 2023 - Jun 2026*
