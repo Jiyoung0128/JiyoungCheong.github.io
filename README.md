@@ -1,4 +1,4 @@
-# Data Scientist
+# Undergraduate Student in Data Science
 #### Technical Skills: Python, R, C
 
 
