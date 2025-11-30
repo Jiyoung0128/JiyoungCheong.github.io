@@ -57,6 +57,7 @@ Myocardial Infarction is caused by clotted blood block vessels. It brings sudden
 
 ### Building Drug Usage Prediction Model
 *Course project for the Data Science Foundations*  
+Drug abuse is a huge social problem in the U.S. We tried to build prediction model to drug use frequency. We used National Survey on Drug Use and Health (NSDUH) data provided by Substance Abuse and Mental Health Service Administration (SAMHSA). The target variable we used was 'the number of days one used marijuana in one year.' We first trained random forest regressor with $R^2$ with Cross Validation: -6.8 ~ -2.7  and applied Yeo Johnson and Bayesian optimization for better performance which showed Cross Validated Mean $R^2$: 0.23. Also we further discussed about ethical issues involved in using data such as race, economic status, and educational level to predict drug use frequency.   
 🧑‍🏫 [Click to View Slides (Korean Original)](assets/projects/Drug/DSFoundation_TermProject_slides.pdf)
 
 ### Logistic Regression Analysis of Lung Cancer Incidence by Smoking Duration and Occupation
