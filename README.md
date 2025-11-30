@@ -52,7 +52,7 @@
 ## Project
 ### Using Three Tree-Based Ensemble Models to Assess the Risk of Myocardial Infarction
 *Course project for the Data Structures*  
-Myocardial Infarction is caused by clotted blood block vessels. It brings sudden chest pain without early symptoms and has 33% death rate upon arrival at the hospital. So we built model for checking the risk of Myocardial Infarction easily and frequently. We used tree-based models because it is easy to understand the decision making process and the searching is fast in trees in terms of time complexity. We used Korea National Health and Nutrition Examination Survey (KNHANES) data for training the model. We trained decision tree, random forest, gradient boosting, and XGBoosting models and XGBoosting showed the best model performance with F1-score 0.9751.
+Myocardial Infarction is caused by clotted blood block vessels. It brings sudden chest pain without early symptoms and has 33% death rate upon arrival at the hospital. So we built model for checking the risk of Myocardial Infarction easily and frequently. We used tree-based models because it is easy to understand the decision making process and the searching is fast in trees in terms of time complexity. We used Korea National Health and Nutrition Examination Survey (KNHANES) data for training the model. We trained decision tree, random forest, gradient boosting, and XGBoosting models and XGBoosting showed the best model performance with F1-score 0.9751.  
 🧑‍🏫 [Click to View Slides](assets/projects/MyocardialInfarction/DataStructure_FinalProjectSlide.pdf)
 
 ### Building Drug Usage Prediction Model
