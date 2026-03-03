@@ -17,7 +17,7 @@
   Poster session presented at the **American Educational Research Association (AERA)** Annual Meeting, Los Angeles, CA.  
   📄 [Click to View PDF](assets/pdf/AERA2026.pdf)
   
-- Du, H., **Cheong, J.**, Zhu, G., Huang, X., Li, S., Zheng, J., Tan, J., Zhong, T., Hou, C., & Liu, T. (Under review).  
+- Du, H., **Cheong, J.**, Zhu, G., Huang, X., Li, S., Zheng, J., Tan, J., Zhong, T., Hou, C., & Liu, T. (Accepted).  
   *What Draws Upvotes? Identifying Student Clusters Based on Interpersonal Skills and Examining the Correlations.*  
   The **19th International Conference on Computer-Supported Collaborative Learning (CSCL 2026)**, International Society of the Learning Sciences.
  
