@@ -3,7 +3,7 @@
 
 
 ## Education
-- Bachelor of Engineering, Data Science | Ewha Womans University  
+- BS in Engineering, Data Science | Ewha Womans University  
   *Mar 2023 - Jun 2026*
 - Exchange Student | Western Washington University  
   *Jan 2025 - Jun 2025*
