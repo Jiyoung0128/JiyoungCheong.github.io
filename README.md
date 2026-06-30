@@ -20,6 +20,7 @@
 - Du, H., **Cheong, J.**, Zhu, G., Huang, X., Li, S., Zheng, J., Tan, J., Zhong, T., Hou, C., & Liu, T. (Accepted).  
   *Identifying Student Clusters Based on Interpersonal Skills and Examining the Correlations.*  
   Presentation as a poster at the **19th International Conference on Computer-Supported Collaborative Learning (CSCL 2026)**, International Society of the Learning Sciences.
+  📄 [Click to View PDF](assets/pdf/ISLS2026.pdf)
  
 
 
