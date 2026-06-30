@@ -29,7 +29,7 @@
 ## Research Experience
 **Undergraduate Research Intern with Professor Hanxiang Du**  
 *Apr 2025 - Sep 2025*
-- Submitted poster to *AERA 2026 Annual Meeting* (Accepted)
+- Submitted poster to *AERA 2026 Annual Meeting* 
 - Submitted short paper to *CSCL 2026 International Conference*
 - Conducted educational data mining, hierarchical clustering, cosine similarity analysis, CRQA
 - Studied about NLP and used NLTK for text preprocessing
