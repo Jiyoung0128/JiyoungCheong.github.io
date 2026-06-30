@@ -3,7 +3,7 @@
 
 
 ## Education
-- MS in Artificial Intelligence, AI and Biomedical concentration | Columbia University
+- MS in Artificial Intelligence, AI and Biomedical concentration | Columbia University  
   *Sep 2026 - Dec 2027*
 - BS in Data Science | Ewha Womans University  
   *Mar 2023 - Jun 2026*
