@@ -3,7 +3,9 @@
 
 
 ## Education
-- BS in Engineering, Data Science | Ewha Womans University  
+- MS in Artificial Intelligence, AI and Biomedical concentration | Columbia University
+  *Sep 2026 - Dec 2027*
+- BS in Data Science | Ewha Womans University  
   *Mar 2023 - Jun 2026*
 - Exchange Student | Western Washington University  
   *Jan 2025 - Jun 2025*
