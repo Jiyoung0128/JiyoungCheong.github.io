@@ -1,4 +1,4 @@
-# Undergraduate Student in Data Science
+# MS Student in Artificial Intelligence
 #### Technical Skills: Python, R, C, SQL
 
 
